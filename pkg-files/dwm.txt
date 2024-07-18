@@ -6,4 +6,6 @@ freetype2
 kitty
 thunar
 xorg
+alacritty
+pcmanfm
 --END OF MINIMAL INSTALL--
